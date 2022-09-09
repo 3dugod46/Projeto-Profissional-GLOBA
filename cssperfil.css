@@ -1,0 +1,71 @@
+body{
+    background-color: rgb(216, 144, 56);
+    background-image: url(https://i.pinimg.com/originals/5a/15/55/5a155500a5dab6ddc6c04f4f983cddf9.gif);
+    background-size: 1250px;
+    margin-top: 80px;
+
+    
+}
+
+img{
+    background-position: center;
+    background-color: none;
+    width: 150px;
+    height: 150px;
+    image-rendering: optimizeSpeed ;
+    margin-right: 1250px;
+    margin-left: 550px;
+    
+    
+}
+
+#Perfil02{
+    text-align: center;
+    width: 700px;
+    height: 100px;
+    margin-top: 190px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-right: auto;
+    font-style: inherit;
+    font-stretch: expanded;
+    color: azure;
+}
+
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 100px;
+    text-decoration: wavy;
+}
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: azure;
+    text-align:center;
+    margin-top: 80px;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: azure;
+    font-style: italic;
+    text-align:center;
+}
+
+button{
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    font-size: large;
+    color: black;
+    background-image: url(https://acegif.com/wp-content/uploads/loading-98.gif);
+    background-size: auto;
+    
+}
+

@@ -1,0 +1,15 @@
+body{
+    background-image: url(GCinbox.gif);
+    background-size: 100%;
+}
+
+form{
+    color: rgb(13, 26, 27);
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 43%;
+    border-color: black;
+    border: 30px;
+    font-style: oblique;
+    text-decoration: underline;
+}

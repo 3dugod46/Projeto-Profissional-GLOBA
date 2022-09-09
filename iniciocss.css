@@ -1,0 +1,22 @@
+body{
+    background-image: url(GC2.gif);
+    background-size: 112%;
+    margin-left: 50%;
+}
+
+button{
+    background-image: url(https://acegif.com/wp-content/gif/outerspace-58.gif);
+    border-radius: 0%;
+    border-color: black;
+    border-style: ridge;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    font-weight: 700;
+    font-style: italic;
+    margin-top: 105%;
+    margin-left: -90%;
+    size-adjust: 1000px;
+    color: aqua;
+}
+
+

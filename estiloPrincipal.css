@@ -1,0 +1,212 @@
+body{
+    background-image: url(Global\ Centauri01001.png);
+    background-position: -90%;
+    background-size: 109%;
+    width: 55%;
+
+ }
+ 
+ #cofre{
+    width: 60px;
+    height: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    font-style: normal;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 500;
+    font-size: larger;
+    text-align: center;
+ }
+
+
+
+ 
+ 
+ #inicio-site{
+    width: 960px;
+    height: 500px;
+    float: left;
+    
+ }
+
+ .titulo-principal{
+     width: 200px;
+     height: auto;
+     text-align: center;
+ }
+
+ #titulo{
+     width: 75px;
+     height: 50px;
+     text-align: center;
+     float: right;
+    background-color: blue;
+ }
+ 
+ .anuncio1{
+    background-image: url(https://t.ctcdn.com.br/uJy8uIcXFfJStoF6P98sZ99wnc8=/660x0/smart/i369336.gif);
+    border: 800px;
+    border-color: black;
+    background-position: 1240px;
+    background-size: 310px;
+    width: 310px;
+    height: 170px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 240px;
+    margin-left: 300px;
+    margin-right: 20px;
+ }
+ 
+
+ 
+ #perfil{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzpeLqaz0_aznyL1b19G1amRFmK-9JUvBi55OxosI66Z_Mnrc0JO6eyVxbuyGvui7nzpE&usqp=CAU);
+    background-size: 100%;
+    border-radius: 1200%;
+    width: 90px;
+    height: 80px;
+    float: right;
+    margin-right: 25px;
+    margin-top: 20px;
+    
+ }
+
+ button{
+   margin-top: 90%;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: 200;
+   font-size: large;
+   color: black;
+   background-image: url(https://acegif.com/wp-content/uploads/loading-98.gif);
+   background-size: auto;
+ }
+ 
+ #noticias-site{
+   
+    width: 1050px;
+    height: 1000px;
+    margin-top: 10px;
+    float: left;
+ }
+ 
+ 
+
+ 
+ .caixa-noticia1{
+    background-image: url(https://c.tenor.com/idsxVr93MYsAAAAd/vinheta-jornal.gif);
+    background-size: 100%;
+    width: 281px;
+    height: 206px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 40px;
+    float: left;
+    margin-left: 17px;
+    margin-right: 17px;
+    text-align: center;
+ }
+
+
+
+ 
+.caixa-noticia2{
+   background-image: url(https://media1.giphy.com/media/QxtWOlPUWlZk4cUnfQ/200.gif);
+   background-size: 100%;
+    width: 281px;
+    height: 206px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 40px;
+    float: left;
+    margin-left: 17px;
+    margin-right: 17px;
+    text-align: center;
+ }
+
+ .caixa-noticia3{
+    background-image: url(https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportWorldNews/tagreuters.com2022binary_LYNXNPEI450LL-FILEDIMAGE.jpg?w=876&h=484&crop=1);
+    background-size: 130%;
+    width: 281px;
+    height: 206px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 40px;
+    float: left;
+    margin-left: 17px;
+    margin-right: 17px;
+    text-align: center;
+ }
+
+ .caixa-noticia4{
+    background-image: url(http://c.files.bbci.co.uk/17F99/production/_120710289_gettyimages-1234478740.jpg);
+    background-size: 130%;
+    width: 281px;
+    height: 206px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 40px;
+    float: left;
+    margin-left: 17px;
+    margin-right: 17px;
+    text-align: center;
+
+ }
+
+
+
+ 
+
+ .caixa-noticia5{
+    background-image: url(https://dicasmix.com.br/wp-content/uploads/2021/06/Economia-de-gastos-em-casa.gif);
+    background-size: 100%;
+    width: 281px;
+    height: 206px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 40px;
+    float: left;
+    margin-left: 17px;
+    margin-right: 17px;
+    text-align: center;
+ }
+
+ .caixa-noticia6{
+    background-image: url(https://multiversonoticias.com.br/wp-content/uploads/2022/04/tt-1.jpg);
+    background-size: 50%;
+    width: 281px;
+    height: 206px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 40px;
+    float: left;
+    margin-left: 17px;
+    margin-right: 17px;
+    text-align: center;
+ }
+
+ .caixa-noticia7{
+    background-image: url(https://i.ytimg.com/vi/aAmuXc1YIUA/maxresdefault.jpg);
+    background-size: 100%;
+    width: 500px;
+    height: 300px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 40px;
+    float: left;
+    margin-left: 17px;
+    margin-right: 17px;
+    text-align: center;
+ }
+
+ 
+ 
+
+
+
+
+ .blog{
+     width: 75px;
+     height: 100px;
+     margin-left: 960px;
+     margin-right: 10px;
+     margin-top: 25px;
+
+ }
+
+
+
+
+ 

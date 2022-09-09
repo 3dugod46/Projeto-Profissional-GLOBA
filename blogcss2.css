@@ -1,0 +1,36 @@
+body{
+    background-image: url(https://i0.wp.com/sandiegofreepress.org/wp-content/uploads/2014/07/gif-animated-color-bouncing-balls.gif?fit=600%2C400&ssl=1&w=640);
+    background-size: 120%;
+    margin-top: 0%;
+    background-position: 40%;
+    width: 35%;
+    height: 60%;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: solid;
+    color: azure;
+    text-align: center;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: azure;
+    font-weight: 600;
+    text-align: center;
+    text-decoration: wavy;
+    text-decoration: azure;
+    text-rendering: geometricPrecision;
+    font-style: italic;
+}
+
+form{
+    color: cadetblue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: azure;
+    font-size: larger;
+    font-weight: 700;
+    width: 30%;
+    margin-left: 30%;
+}
